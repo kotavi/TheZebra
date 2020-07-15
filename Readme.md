@@ -3,7 +3,9 @@
 #### Project
 
 The project was created in PyCharm, MacOS
+
 Executed with chromedriver: 83.0.4103.39 and GoogleChrome: 83.0.4103.116
+
 Supports Firefox and Safari 
 
 #### Setup environment
